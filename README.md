@@ -15,19 +15,15 @@ A social media app for developers — create, edit, delete, and sort posts. Buil
 - Vite
 - Tailwind
 
-```
 
-## Getting Started
+1. Clone the repository
 
-1. **Clone the repository**
 
-   ```bash
-   git clone https://github.com/magobryan81/social-media-app.git
-   ```
+git clone https://github.com/magobryan81/social-media-app.git
 
-2. **Install dependencies**
 
-   ```bash
+2. Install dependencies
+
    # Styling
   npm install tailwindcss @tailwindcss/vite
   
@@ -36,15 +32,13 @@ A social media app for developers — create, edit, delete, and sort posts. Buil
   
   # Icons
   npm install lucide-react
-   ```
+   
 
-3. **Run the development server**
+3. Run the development server
 
-   ```bash
    npm run dev
-   ```
-
-4. **Open the app**
+   
+4. Open the app
 
    Visit [http://localhost:5173]
 
