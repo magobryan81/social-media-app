@@ -18,9 +18,7 @@ A social media app for developers — create, edit, delete, and sort posts. Buil
 
 1. Clone the repository
 
-
-git clone https://github.com/magobryan81/social-media-app.git
-
+   git clone https://github.com/magobryan81/social-media-app.git
 
 2. Install dependencies
 
