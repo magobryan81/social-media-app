@@ -24,21 +24,16 @@ git clone https://github.com/magobryan81/social-media-app.git
 
 2. Install dependencies
 
-   # Styling
-  npm install tailwindcss @tailwindcss/vite
-  
-  # Date formatting
-  npm install date-fns
-  
-  # Icons
-  npm install lucide-react
+npm install tailwindcss @tailwindcss/vite  
+npm install date-fns
+npm install lucide-react
    
 
 3. Run the development server
 
-   npm run dev
+npm run dev
    
 4. Open the app
 
-   Visit [http://localhost:5173]
+Visit [http://localhost:5173]
 
