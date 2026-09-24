@@ -2,14 +2,14 @@
 
 A social media app for developers — create, edit, delete, and sort posts. Built with React, Vite, and Tailwind CSS.
 
-## Features
+Features
 
 - Create posts
 - Edit existing posts
 - Delete posts
 - Sort posts newest → oldest or oldest → newest
 
-## Tech Stack
+Tech Stack
 
 - React
 - Vite
