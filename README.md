@@ -25,7 +25,9 @@ git clone https://github.com/magobryan81/social-media-app.git
 2. Install dependencies
 
 npm install tailwindcss @tailwindcss/vite  
+
 npm install date-fns
+
 npm install lucide-react
    
 
