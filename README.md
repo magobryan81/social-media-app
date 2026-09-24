@@ -2,6 +2,8 @@
 
 A social media app for developers — create, edit, delete, and sort posts. Built with React, Vite, and Tailwind CSS.
 
+![Screenshot of SocialDev feed](./assets/image.png)
+
 Features
 
 - Create posts
